@@ -67,7 +67,7 @@ La grabacion se realizo en este caso por medio una aplicacion llamada "Grabadora
 
 ![Agregar](grabadora.jpg)
 
-Para la grabacion la frecuencia de muestreo fue de 16 kHz en cada celular, se grabaron 4 segundos del ruido del ambiente y 4 segundos a las personas hablando.
+Para la grabacion la frecuencia de muestreo fue de 16 kHz en cada celular, se grabaron 5 segundos del ruido del ambiente y 4 segundos a las personas hablando.
 
 ![Agregar](frecuencia.jpg)
 
@@ -224,11 +224,18 @@ def mezclarVoces(audio1, audio2):
 
 ![Agregar](espectromezclamama.png)
 
+
+https://github.com/user-attachments/assets/a023c319-46d1-498f-836e-15cac63f9409
+
+
 - **Graficas mezcla y espectro mezcla mari**:
 
 ![Agregar](mezclamari.png)
 
 ![Agregar](espectromezclamari.png)
+
+
+https://github.com/user-attachments/assets/bbfca474-95a2-4b28-9c94-7c3b6e09ab41
 
 <a name="ica"></a> 
 ## Uso de ICA, separacion y SNR relacion señal-ruido
@@ -523,6 +530,9 @@ if __name__ == "__main__":
 
 <a name="analisis"></a> 
 ## Analisis
+El analisis se va a realizar para el audio separado de "Voz Mari", este es el resultado final:
+
+https://github.com/user-attachments/assets/9d35ab68-58d0-4e7d-bfb3-6ed8000c60f2
 
 ![Agregar](analisis.png)
 
